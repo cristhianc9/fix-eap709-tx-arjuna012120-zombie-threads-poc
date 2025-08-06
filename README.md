@@ -89,8 +89,8 @@ No se observan hilos zombie ni mensajes ARJUNA012120 tras aplicar el parche y aj
 
 ## 🧠 Referencias
 
-- [Red Hat Knowledgebase: Transaction Reaper Worker not responding](https://access.redhat.com/solutions/123456)
-- [Foro Red Hat: ARJUNA012120 discussion](https://access.redhat.com/discussions/78910)
+- [Red Hat Knowledgebase: Transaction Reaper Worker not responding](https://access.redhat.com/solutions/18425)
+- [Foro Red Hat: ARJUNA012120 discussion](https://access.redhat.com/solutions/167033)
 - [Documentación oficial JBoss EAP 7.0.9](https://access.redhat.com/documentation/en-us/jboss_enterprise_application_platform/7.0/)
 
 
